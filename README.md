@@ -29,6 +29,10 @@
 - **Release Year:** 2015
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.png" width="300" alt="Kokhon Kibhabe Ekhane Ke Jane Cover" />
+</p>
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01 - Sake**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/01%20-%20Sake.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/01%20-%20Sake.flac?download=true)
@@ -47,6 +51,8 @@
 
 <a id="2-singles--standalone-releases"></a>
 ## 2. Singles & Standalone Releases
+
+
 
 ### 🎵 Tracklist (One-Tap Download)
 

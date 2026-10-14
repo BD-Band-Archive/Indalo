@@ -17,6 +17,9 @@
 1. [Kokhon Kibhabe Ekhane Ke Jane (কখন কিভাবে এখানে কে জানে) (2015)](#1-kokhon-kibhabe-ekhane-ke-jane-2015)
 2. [Singles & Standalone Releases](#2-singles--standalone-releases)
 
+### 💿 Mixed Albums
+3. [Rock 808 (রক ৮০৮) (2015)](#3-rock-808-2015)
+
 ---
 
 <a id="1-kokhon-kibhabe-ekhane-ke-jane-2015"></a>
@@ -53,6 +56,15 @@
 - [**01 Ekanto Golaap**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/01%20Ekanto%20Golaap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/01%20Ekanto%20Golaap.flac?download=true)
 - [**Indalo - 1996**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%201996.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%201996.flac?download=true)
 - [**Indalo - Ghuri**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%20Ghuri.m4a?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-M4A-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%20Ghuri.m4a?download=true)
+
+---
+
+<a id="3-rock-808-2015"></a>
+## 3. [Rock 808 (রক ৮০৮) (2015)](https://github.com/GhostDog45/Mixed-Albums#rock-808-2015)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Indalo - ISD**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/11%20-%20ISD.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/11%20-%20ISD.flac?download=true)
 
 ---
 

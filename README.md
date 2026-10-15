@@ -47,6 +47,14 @@
 - [**12 - Oshfut**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/12%20-%20Oshfut.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/12%20-%20Oshfut.flac?download=true)
 - [**13 - Ke Shunbe**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/13%20-%20Ke%20Shunbe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/13%20-%20Ke%20Shunbe.flac?download=true)
 
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.png" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/folder.jpg" width="300" alt="3. folder" /><br><sub><b>3. folder</b></sub> |  |
+
 ---
 
 <a id="2-singles--standalone-releases"></a>
@@ -62,6 +70,13 @@
 - [**01 Ekanto Golaap**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/01%20Ekanto%20Golaap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/01%20Ekanto%20Golaap.flac?download=true)
 - [**Indalo - 1996**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%201996.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%201996.flac?download=true)
 - [**Indalo - Ghuri**](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%20Ghuri.m4a?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-M4A-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Indalo/master/Singles/Indalo%20-%20Ghuri.m4a?download=true)
+
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
 
 ---
 

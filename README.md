@@ -54,6 +54,12 @@
 | :---: | :---: |
 | <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** lostparables
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-singles--standalone-releases"></a>
@@ -76,6 +82,12 @@
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @music_ripper_bot / Bangla Flac Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 

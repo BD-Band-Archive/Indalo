@@ -1,0 +1,30 @@
+Album Name: Kokhon Kibhabe Ekhane Ke Jane
+Album Type: Band
+Release Year: 2015
+Genre: Rock / Post-Grunge
+Total Songs: 11
+Track List:
+01. Sake
+02. Olik
+03. Deyalghori
+04. Obosheshe
+05. Plastic
+06. Pathorer Araler Phool
+07. Antonogor
+08. Canvas
+09. ISD
+10. Oshfut
+11. Ke Shunbe
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 625 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.3 (2019-08-04)

@@ -65,6 +65,13 @@
 <a id="2-singles--standalone-releases"></a>
 ## 2. Singles & Standalone Releases
 
+- **Band:** Indalo
+- **Audio Quality:** Lossless FLAC & ALAC
+
+<p align="center">
+  <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Indalo Singles Cover" />
+</p>
+
 
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -81,7 +88,10 @@
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%201996.jpg" width="300" alt="2. Indalo - 1996" /><br><sub><b>2. Indalo - 1996</b></sub> |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Chhobi.jpg" width="300" alt="3. Indalo - Chhobi" /><br><sub><b>3. Indalo - Chhobi</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%20Ekanto%20Golaap.jpg" width="300" alt="4. Indalo - Ekanto Golaap" /><br><sub><b>4. Indalo - Ekanto Golaap</b></sub> |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Ghuri.jpg" width="300" alt="5. Indalo - Ghuri" /><br><sub><b>5. Indalo - Ghuri</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%20Hobeki.jpg" width="300" alt="6. Indalo - Hobeki" /><br><sub><b>6. Indalo - Hobeki</b></sub> |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.jpg" width="300" alt="7. Indalo - Kokhon Kibhabe Ekhane Ke Jane" /><br><sub><b>7. Indalo - Kokhon Kibhabe Ekhane Ke Jane</b></sub> |  |
 
 
 ### 💿 CD Ripper & Preservation Credit

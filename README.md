@@ -30,7 +30,7 @@
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.png" width="300" alt="Kokhon Kibhabe Ekhane Ke Jane Cover" />
+  <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.jpg" width="300" alt="Kokhon Kibhabe Ekhane Ke Jane Cover" />
 </p>
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -52,8 +52,9 @@
 
 | | |
 | :---: | :---: |
-| <img src="Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane/Album%20Cover/Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
-
+| <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%201996.jpg" width="300" alt="2. Indalo - 1996" /><br><sub><b>2. Indalo - 1996</b></sub> |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Chhobi.jpg" width="300" alt="3. Indalo - Chhobi" /><br><sub><b>3. Indalo - Chhobi</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%20Hobeki.jpg" width="300" alt="4. Indalo - Hobeki" /><br><sub><b>4. Indalo - Hobeki</b></sub> |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.jpg" width="300" alt="5. Indalo - Kokhon Kibhabe Ekhane Ke Jane" /><br><sub><b>5. Indalo - Kokhon Kibhabe Ekhane Ke Jane</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -76,12 +77,10 @@
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Chhobi**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Chhobi%20-%20Indalo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Chhobi%20-%20Indalo.flac?download=true)
-- [**Hobeki**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Hobeki%20-%20Indalo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Hobeki%20-%20Indalo.flac?download=true)
-- [**Kokhon Kibhabe Ekhane Ke Jane**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.flac?download=true)
-- [**Ekanto Golaap**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20Ekanto%20Golaap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20Ekanto%20Golaap.flac?download=true)
-- [**1996**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/Indalo%20-%201996.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/Indalo%20-%201996.flac?download=true)
-- [**Ghuri**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/Indalo%20-%20Ghuri.m4a?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-M4A-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/Indalo%20-%20Ghuri.m4a?download=true)
+- [**01. 1996**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/Indalo%20-%201996.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/Indalo%20-%201996.flac?download=true)
+- [**02. Chhobi**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Chhobi%20-%20Indalo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Chhobi%20-%20Indalo.flac?download=true)
+- [**03. Hobeki**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Hobeki%20-%20Indalo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Hobeki%20-%20Indalo.flac?download=true)
+- [**04. Kokhon Kibhabe Ekhane Ke Jane**](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Indalo/master/Singles/01%20-%20Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.flac?download=true)
 
 
 ### 🖼️ Album Artwork
@@ -89,10 +88,8 @@
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Indalo%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%201996.jpg" width="300" alt="2. Indalo - 1996" /><br><sub><b>2. Indalo - 1996</b></sub> |
-| <img src="Singles/Album%20Cover/Indalo%20-%20Chhobi.jpg" width="300" alt="3. Indalo - Chhobi" /><br><sub><b>3. Indalo - Chhobi</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%20Ekanto%20Golaap.jpg" width="300" alt="4. Indalo - Ekanto Golaap" /><br><sub><b>4. Indalo - Ekanto Golaap</b></sub> |
-| <img src="Singles/Album%20Cover/Indalo%20-%20Ghuri.jpg" width="300" alt="5. Indalo - Ghuri" /><br><sub><b>5. Indalo - Ghuri</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%20Hobeki.jpg" width="300" alt="6. Indalo - Hobeki" /><br><sub><b>6. Indalo - Hobeki</b></sub> |
-| <img src="Singles/Album%20Cover/Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.jpg" width="300" alt="7. Indalo - Kokhon Kibhabe Ekhane Ke Jane" /><br><sub><b>7. Indalo - Kokhon Kibhabe Ekhane Ke Jane</b></sub> |  |
-
+| <img src="Singles/Album%20Cover/Indalo%20-%20Chhobi.jpg" width="300" alt="3. Indalo - Chhobi" /><br><sub><b>3. Indalo - Chhobi</b></sub> | <img src="Singles/Album%20Cover/Indalo%20-%20Hobeki.jpg" width="300" alt="4. Indalo - Hobeki" /><br><sub><b>4. Indalo - Hobeki</b></sub> |
+| <img src="Singles/Album%20Cover/Indalo%20-%20Kokhon%20Kibhabe%20Ekhane%20Ke%20Jane.jpg" width="300" alt="5. Indalo - Kokhon Kibhabe Ekhane Ke Jane" /><br><sub><b>5. Indalo - Kokhon Kibhabe Ekhane Ke Jane</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
